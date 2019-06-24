@@ -1,0 +1,18 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Key.png" transparentColor="">
+ <animation title="start" delay="60">
+  <cut w="0" x="44" y="65" h="0" row="1" col="1"/>
+  <cut w="0" x="218" y="200" h="0" row="1" col="1"/>
+  <cut w="221" x="4" y="195" h="29" row="1" col="1"/>
+  <cut w="220" x="5" y="163" h="61" row="1" col="1"/>
+  <cut w="214" x="11" y="140" h="80" row="1" col="1"/>
+  <cut w="211" x="14" y="114" h="106" row="1" col="1"/>
+  <cut w="208" x="12" y="98" h="122" row="1" col="1"/>
+  <cut w="222" x="3" y="77" h="143" row="1" col="1"/>
+  <cut w="220" x="5" y="60" h="164" row="1" col="1"/>
+  <cut w="215" x="6" y="47" h="177" row="1" col="1"/>
+  <cut w="215" x="6" y="27" h="197" row="1" col="1"/>
+  <cut w="223" x="2" y="14" h="210" row="1" col="1"/>
+  <cut w="222" x="3" y="3" h="217" row="1" col="1"/>
+ </animation>
+</sprites>

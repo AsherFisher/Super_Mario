@@ -1,0 +1,10 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="smb_enemies_sheet.png" transparentColor="">
+ <animation title="WalkLeft" delay="150">
+  <cut w="16.25" x="0" y="3" h="18" row="1" col="1"/>
+  <cut w="18.5" x="29.5" y="3.75" h="17.25" row="1" col="1"/>
+ </animation>
+ <animation title="Dead" delay="150">
+  <cut w="17.5" x="59.5" y="6.75" h="11.25" row="1" col="1"/>
+ </animation>
+</sprites>

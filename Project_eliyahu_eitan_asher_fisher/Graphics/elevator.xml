@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="smb_items_sheet.png" transparentColor="">
+ <animation title="start" delay="150">
+  <cut w="49.75" x="62.25" y="38" h="8" row="1" col="1"/>
+ </animation>
+</sprites>

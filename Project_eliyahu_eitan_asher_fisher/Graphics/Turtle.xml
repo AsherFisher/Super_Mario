@@ -1,0 +1,17 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Enemys.png" transparentColor="">
+ <animation title="WalkRight" delay="150">
+  <cut w="17" x="209" y="0.25" h="23" row="1" col="1"/>
+  <cut w="17" x="239" y="0.75" h="23" row="1" col="1"/>
+ </animation>
+ <animation title="WalkLeft" delay="150">
+  <cut w="16" x="149.5" y="0.25" h="24" row="1" col="1"/>
+  <cut w="16" x="180" y="0.25" h="22" row="1" col="1"/>
+ </animation>
+ <animation title="Smash" delay="150">
+  <cut w="15.75" x="330.25" y="3" h="17" row="1" col="1"/>
+ </animation>
+ <animation title="Dead" delay="150">
+  <cut w="16.5" x="360.5" y="4" h="14" row="1" col="1"/>
+ </animation>
+</sprites>

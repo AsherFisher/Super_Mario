@@ -1,0 +1,11 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="coin.png" transparentColor="">
+ <animation title="Spin" delay="80">
+  <cut w="33.25" x="0" y="0" h="31.75" row="1" col="1"/>
+  <cut w="28.75" x="33.25" y="0" h="31.5" row="1" col="1"/>
+  <cut w="26.5" x="67" y="0" h="31.5" row="1" col="1"/>
+  <cut w="17.75" x="103" y="0" h="31.25" row="1" col="1"/>
+  <cut w="27.25" x="130" y="0" h="31" row="1" col="1"/>
+  <cut w="27.5" x="163" y="0" h="31" row="1" col="1"/>
+ </animation>
+</sprites>
